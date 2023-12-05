@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691095577 source:c:\users\acer\onedrive\desktop\programs\c++\projects\filehandling\project\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+
